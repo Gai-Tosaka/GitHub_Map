@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
 //Mapで車の名前をキーメーカーをバリューにする
 Map<String, String> carMap = new HashMap<>();
-carMap.put("プリウス", "トヨタ");
 carMap.put("セレナ", "日産");
 carMap.put("アコード", "ホンダ");
 carMap.put("ハイエース", "トヨタ");
